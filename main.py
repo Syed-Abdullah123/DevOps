@@ -1,2 +1,2 @@
-print("This is a simple python")
+print("This is a simple python python")
 # print the statement
